@@ -35,7 +35,8 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-![and101-lab1-gif](https://github.com/user-attachments/assets/3d32b092-32cd-491f-90b7-f28970e343f1);
+![and101-lab1-gif](https://github.com/user-attachments/assets/73e05334-afa9-4880-8fe2-394d74bbb778)
+
 
 GIF created with **your chosen GIF tool**
 
